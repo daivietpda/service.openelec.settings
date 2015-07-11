@@ -321,7 +321,7 @@ msgstr "Hoạt động"
 
 msgctxt "#32106"
 msgid "Username"
-msgstr "Tên người dùng"
+msgstr "Tên truy cập"
 
 msgctxt "#32107"
 msgid "Passphrase"
@@ -561,7 +561,7 @@ msgstr ""
 
 msgctxt "#32212"
 msgid "Cancel"
-msgstr "Thoát"
+msgstr "Hủy bỏ"
 
 #empty strings from id 32213 to 32215
 
