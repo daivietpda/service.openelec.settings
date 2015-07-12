@@ -589,7 +589,7 @@ msgstr "Tiếp"
 
 msgctxt "#32304"
 msgid "To be identified easily on the network, your new @DISTRONAME@ machine needs a name.[CR][CR]Try to choose something meaningful - like the room it's in - so you'll know what it is when you see it on the network.[CR][CR]This name is used when configuring network services, like file sharing using samba."
-msgstr "Để nhận biết mạng , Mới là @DISTRONAME@ cần một cái tên [CR][CR]thử chọn một cái tên gì đó - kiểu như cái gì đó trong phòng - như vậy bạn sẽ biết khi bạn thấy trong mạng .[CR][CR]Tên này được hiện thị khi bạn chia sẻ file qua mạng , ví dụ như samba."
+msgstr "Để nhận biết mạng , @DISTRONAME@ cần một cái tên [CR][CR]thử đặt một cái tên gì đó.[CR][CR]Tên này được hiện thị khi bạn chia sẻ file qua mạng , ví dụ như samba."
 
 msgctxt "#32305"
 msgid "Networking"
@@ -634,8 +634,8 @@ msgid "Thank you"
 msgstr "Cám ơn"
 
 msgctxt "#32318"
-msgid "@DISTRONAME@ của bạn cài đặt đã xong và bây giờ bạn sẽ vào Kodi sau đó bạn có thể thiết lập các thư viện phương tiện truyền thông của bạn. để được trợ giúp bạn có thể vào wiki.kodi.tv hoặc kodiviet.com [CR][CR]@DISTRONAME@ được phát triển bởi một đội ngũ chuyên nghiệp và làm việc vào những lúc họ nhàn rỗi. Ngay cả khi một dự án tình nguyện, chúng tôi vẫn phải trả tiền cho băng thông internet và phát triển nguồn tài nguyên của chúng tôi vì vậy nếu bạn thấy @DISTRONAME@ hữu ích với bạn , Chúng tôi luôn đánh giá cao quyên góp của bạn với số tiền bất kỳ.[CR][CR]Cuối cùng chúng tôi hi vọng bạn thích thú với @DISTRONAME@ thật nhiều cũng như chúng tôi đang thưởng thức và xây dựng nó. Nếu bạn cần bất kỳ sự giúp đỡ nhiều hơn nữa, bạn có thể tìm thấy các liên kết để được trợ giúp cùng với các tin tức mới nhất tại trang web của chúng tôi"
-msgstr ""
+msgid "Your @DISTRONAME@ installation is now complete and you'll now enter Kodi when you can set up your media libraries. For help with this, there is a guide available at wiki.kodi.tv[CR][CR]@DISTRONAME@ is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find @DISTRONAME@ useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using @DISTRONAME@ as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at our website"
+msgstr "@DISTRONAME@ của bạn cài đặt đã xong và bây giờ bạn sẽ vào Kodi sau đó bạn có thể thiết lập các thư viện phương tiện truyền thông của bạn. để được trợ giúp bạn có thể vào wiki.kodi.tv hoặc kodiviet.com [CR][CR]@DISTRONAME@ được phát triển bởi một đội ngũ chuyên nghiệp và làm việc vào những lúc họ nhàn rỗi. Ngay cả khi một dự án tình nguyện, chúng tôi vẫn phải trả tiền cho băng thông internet và phát triển nguồn tài nguyên của chúng tôi vì vậy nếu bạn thấy @DISTRONAME@ hữu ích với bạn , Chúng tôi luôn đánh giá cao quyên góp của bạn với số tiền bất kỳ.[CR][CR]Cuối cùng chúng tôi hi vọng bạn thích thú với @DISTRONAME@ thật nhiều cũng như chúng tôi đang thưởng thức và xây dựng nó. Nếu bạn cần bất kỳ sự giúp đỡ nhiều hơn nữa, bạn có thể tìm thấy các liên kết để được trợ giúp cùng với các tin tức mới nhất tại trang web của chúng tôi"
 
 msgctxt "#32319"
 msgid "Cron"
